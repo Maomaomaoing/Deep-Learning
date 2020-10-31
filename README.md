@@ -1,0 +1,7 @@
+CNN
+
+RNN
+
+VAE
+
+GAN
